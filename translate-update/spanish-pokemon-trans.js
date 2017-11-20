@@ -152,7 +152,7 @@ exports.translations.abilities = {
 	"simple": "Simple",
 	"skilllink": "Encadenado",
 	"slowstart": "Inicio Lento",
-	"sniper": "Francotirad.",
+	"sniper": "Francotirador",
 	"snowcloak": "Manto Níveo",
 	"snowwarning": "Nevada",
 	"solarpower": "Poder Solar",
@@ -244,7 +244,7 @@ exports.translations.abilities = {
 	"watercompaction": "Hidrorrefuerzo",
 	"wimpout": "Huida",
 	"shieldsdown": "Escudo Limitado",
-	"neuroforce": "",
+	"neuroforce": "Fuerza Cerebral",
 };
 
 /* Battle Items */
@@ -431,7 +431,7 @@ exports.translations.items = {
 	"nomelberry": "Baya Monli",
 	"normalgem": "Gema Normal",
 	"occaberry": "Baya Caoca",
-	"oddincense": "Incie. Raro",
+	"oddincense": "Incienso Raro",
 	"oldamber": "Ámbar Viejo",
 	"oranberry": "Baya Aranja",
 	"pamtreberry": "Baya Plama",
@@ -615,7 +615,7 @@ exports.translations.items = {
 	"powerlens": "Lente Recia",
 	"powerweight": "Pesa Recia",
 	"solganiumz": "Solgaleostal Z",
-	"ultranecroziumz": "",
+	"ultranecroziumz": "Ultranecrostal Z",
 };
 
 /* Battle Moves */
@@ -1296,7 +1296,7 @@ exports.translations.moves = {
 	"icehammer": "Martillo Hielo",
 	"infernooverdrive": "Hecatombe Pírica",
 	"instruct": "Mandato",
-	"laserfocus": "Foco",
+	"laserfocus": "Aguzar",
 	"leafage": "Follaje",
 	"liquidation": "Hidroariete",
 	"lunge": "Plancha",
@@ -1327,7 +1327,7 @@ exports.translations.moves = {
 	"solarblade": "Cuchillo Solar",
 	"soulstealing7starstrike": "Constelación Robaalmas",
 	"sparklingaria": "Aria Burbuja",
-	"spotlight": "Aguzar",
+	"spotlight": "Foco",
 	"stokedsparksurfer": "Surfeo Galvánico",
 	"stompingtantrum": "Pataleta",
 	"strengthsap": "Absorbefuerza",
@@ -1343,11 +1343,11 @@ exports.translations.moves = {
 	"zingzap": "Electropunzada",
 	"clangoroussoulblaze": "Estruendo Implacable",
 	"letssnuggleforever": "Somanta Amistosa",
-	"lightthatburnsthesky": "",
+	"lightthatburnsthesky": "Fotodestrucción Apocalíptica",
 	"menacingmoonrazemaelstrom": "Deflagración Lunar",
 	"mindblown": "Cabeza sorpresa",
 	"photongeyser": "Géiser Fotónico",
-	"plasmafists": "",
+	"plasmafists": "Puños Plasma",
 	"searingsunrazesmash": "Embestida Solar",
 	"splinteredstormshards": "Tempestad Rocosa",
 };
